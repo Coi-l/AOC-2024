@@ -30,3 +30,5 @@ tinyjson = "2.5.1"
 # Solution dependencies
 regex = { version = "1" }
 array2d = "0.3.2"
+rayon = "1.10.0"
+rustc-hash = "2.1.0"
